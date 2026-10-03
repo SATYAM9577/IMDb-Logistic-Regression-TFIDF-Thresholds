@@ -10,6 +10,12 @@ It also measures threshold effects and examines five borderline test reviews.
 py -m pip install -r requirements.txt
 py assignment.py
 ```
+```
+git clone https://github.com/SATYAM9577/IMDb-Logistic-Regression-TFIDF-Thresholds.git
+cd IMDb-Logistic-Regression-TFIDF-Thresholds
+pip install -r requirements.txt
+python assignment.py
+```
 
 The script downloads the official train and test parquet splits on first run.
 The test split is the same 25,000-review split used in the related Q1 and Q2
