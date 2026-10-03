@@ -1,0 +1,6 @@
+test_row,actual_sentiment,predicted_sentiment,positive_probability,review_summary
+580,negative,negative,0.499976079895655,"The reviewer introduces a romantic-comedy plot and its setting, with little direct evaluation in the opening."
+14435,positive,negative,0.4999416072983778,The reviewer criticizes the film's predictability but balances that with praise for its overall execution.
+6627,negative,positive,0.5001238212725538,The reviewer humorously presents the film as intentionally bad and uses an ironic claim of enjoying that kind of movie.
+24864,positive,positive,0.5001260729762727,"The reviewer introduces a horror-film premise involving sorority pledges and a mausoleum, with little direct evaluation in the opening."
+188,negative,positive,0.5001568772867987,"The reviewer describes mixed feelings about musicals, contrasting strongly liked and disliked examples."
